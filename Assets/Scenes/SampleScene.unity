@@ -202,7 +202,7 @@ Transform:
   m_GameObject: {fileID: 430839657}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -3, z: 0}
-  m_LocalScale: {x: 20, y: 1, z: 1}
+  m_LocalScale: {x: 18, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1317232948}
@@ -311,7 +311,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 445094754}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.66, y: 0.5, z: 0}
+  m_LocalPosition: {x: -6, y: 0.5, z: 0}
   m_LocalScale: {x: 0.5, y: 6.0681252, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -479,7 +479,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 824909628}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.66, y: 0.5, z: 0}
+  m_LocalPosition: {x: 6, y: 0.5, z: 0}
   m_LocalScale: {x: 0.5, y: 6.0681252, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -534,11 +534,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffaac0ac50c6e2b419b74138b68ac5c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TOWER_1: {fileID: 445094754}
-  TOWER_2: {fileID: 1855009694}
-  TOWER_3: {fileID: 824909628}
+  TOWER_1: {fileID: 445094756}
+  TOWER_2: {fileID: 1855009696}
+  TOWER_3: {fileID: 824909630}
   discPrefab: {fileID: 6768197195519105747, guid: 03a2041fd900ae848a6f28a08a28ee53, type: 3}
-  discsAmount: 6
+  discsAmount: 5
   colors:
   - {r: 0.7264151, g: 0.25013348, b: 0.25013348, a: 1}
   - {r: 0.745283, g: 0.64477164, b: 0.2214756, a: 1}
